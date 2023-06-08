@@ -3,6 +3,9 @@ from pyspark import SparkContext
 from pyspark import SparkConf
 """
 词频统计
+
+(venv) (base) ➜  sparkcp git:(master) ✗  /Users/congpeng/Documents/code/sparkcp/venv/bin/python src/main/python/wordcount.py src/main/python/a.txt
+
 """
 if __name__ == '__main__':
     if len(sys.argv) !=2 :
