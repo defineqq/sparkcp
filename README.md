@@ -10,4 +10,10 @@ https://www.bilibili.com/video/BV1kM411j7Z5/?p=2&vd_source=1e65d792e7d6bacb1c684
 https://pan.baidu.com/s/1yhuL20zwDzNvo_t2brTEug?pwd=q3ex
 提取码: q3ex
 
+3.9  /Users/congpeng/Documents/code/Automatic_ticket_purchase/venv/bin/python
+/Users/congpeng/Documents/code/Automatic_ticket_purchase/venv/bin/pip3.9 install pyspark 
 
+
+
+3.7  /Users/congpeng/Documents/code/sparkcp/venv/bin/python
+/Users/congpeng/Documents/code/sparkcp/venv/bin/pip3.7
