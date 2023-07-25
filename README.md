@@ -17,3 +17,5 @@ https://pan.baidu.com/s/1yhuL20zwDzNvo_t2brTEug?pwd=q3ex
 
 3.7  /Users/congpeng/Documents/code/sparkcp/venv/bin/python
 /Users/congpeng/Documents/code/sparkcp/venv/bin/pip3.7
+
+https://www.bilibili.com/video/BV1FR4y187Rf/?p=56&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=1e65d792e7d6bacb1c684945d033740b
