@@ -3,4 +3,7 @@
 #
 ## virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 #hs_err_pid*
+#撤回git commit git reset --soft HEAD^
+#撤回git add git reset venv*
 venv*
+.idea*
